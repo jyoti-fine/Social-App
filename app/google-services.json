@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "159964961502",
+    "project_id": "social-app-ab5fa",
+    "storage_bucket": "social-app-ab5fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159964961502:android:75246c573f14decf9f804f",
+        "android_client_info": {
+          "package_name": "com.example.socialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159964961502-k5lmofdvdu79hbdiurf59q375v42ftpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkwartP9nskItjaS8p2AvVfB9EYjGEN-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159964961502-k5lmofdvdu79hbdiurf59q375v42ftpb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
